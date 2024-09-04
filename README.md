@@ -1,3 +1,3 @@
 # A Simple Counter
 
-A silly little application for Steve's Redux Toolkit Course.
+This is an application made by doing Steve's React and TypeScript course on Frontend Masters.
